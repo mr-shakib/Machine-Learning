@@ -1,0 +1,8 @@
+langchain
+streamlit
+langchain-community 
+langchain-core 
+huggingface-hub
+transformers
+torch
+langchain_google_genai
