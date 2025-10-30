@@ -1,0 +1,1 @@
+gemini_api = "AIzaSyDz-h5saY25c1RXn3CQWXvN7DyMGVzJj-A"
