@@ -138,14 +138,23 @@ To master the modern AI ecosystem — from Machine Learning and NLP to Generativ
 
 
 ├── 📁 1-prerequisites/            # Python, Statistics, Math for ML
+
 ├── 📁 2-classical-nlp/            # Tokenization, TF-IDF, Word2Vec
+
 ├── 📁 3-deep-learning-nlp/        # RNN, LSTM, GRU, Transformers
+
 ├── 📁 4-generative-ai/            # LLMs, Prompt Engineering, GPT/BERT experiments
+
 ├── 📁 5-frameworks/               # LangChain, LlamaIndex, Gemini API ✅ (completed)
+
 ├── 📁 6-fine-tuning/              # LoRA, PEFT, Instruction-tuning
+
 ├── 📁 7-rag-systems/              # VectorDBs (FAISS/Pinecone), RAG pipelines
+
 ├── 📁 8-multimodal/               # CLIP, Gemini, Speech Models
+
 ├── 📁 9-agentic-ai/               # AI Agents, Tools, Memory, Autonomy
+
 └── 📁 projects/                   # End-to-End AI Projects
 
 
