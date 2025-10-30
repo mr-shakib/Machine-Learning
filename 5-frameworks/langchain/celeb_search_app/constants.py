@@ -1,1 +1,1 @@
-gemini_api = "AIzaSyDz-h5saY25c1RXn3CQWXvN7DyMGVzJj-A"
+gemini_api = "bruh_enter_your_own_api"
